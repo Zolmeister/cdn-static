@@ -1,0 +1,22 @@
+<svg width="330" height="330" viewBox="0 0 330 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Litecoin</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(22714 1324)">
+<g id="Litecoin">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-22714 -1324)" fill="#BEBEBE"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-22679 -1289.05)" fill="#BEBEBE"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-22624.4 -1247.66)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 329.254 164.627C 329.254 255.549 255.549 329.256 164.628 329.256C 73.706 329.256 -1.00136e-08 255.549 -1.00136e-08 164.627C -1.00136e-08 73.706 73.706 -1.28746e-08 164.628 -1.28746e-08C 255.548 -1.28746e-08 329.254 73.706 329.254 164.627Z"/>
+<path id="path1_fill" d="M 259.351 129.677C 259.351 201.29 201.294 259.352 129.677 259.352C 58.061 259.352 -2.13623e-07 201.29 -2.13623e-07 129.677C -2.13623e-07 58.058 58.061 -8.8501e-07 129.677 -8.8501e-07C 201.295 -8.8501e-07 259.351 58.057 259.351 129.677Z"/>
+<path id="path2_fill" d="M 65.359 132.267L 76.052 92.003L 101.368 82.754L 107.665 59.091L 107.45 58.504L 82.53 67.608L 100.485 -3.66211e-06L 49.564 -3.66211e-06L 26.083 88.23L 6.478 95.392L 2.74658e-06 119.787L 19.59 112.631L 5.751 164.629L 141.272 164.629L 149.96 132.267L 65.359 132.267Z"/>
+</defs>
+</svg>

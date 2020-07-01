@@ -1,0 +1,147 @@
+{"frames": {
+
+"M_DAGON.png":
+{
+	"frame": {"x":1,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"M_EREDIN.png":
+{
+	"frame": {"x":132,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"M_GEELS.png":
+{
+	"frame": {"x":263,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"N_EMHYR_VAR_EMREIS.png":
+{
+	"frame": {"x":787,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"N_JOHN_CALVEIT.png":
+{
+	"frame": {"x":918,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"N_MORVRAN_VOORHIS.png":
+{
+	"frame": {"x":1049,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"NR_FOLTEST.png":
+{
+	"frame": {"x":394,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"NR_HENSELT.png":
+{
+	"frame": {"x":525,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"NR_RADOVID.png":
+{
+	"frame": {"x":656,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SK_CRACH_AN_CRAITE.png":
+{
+	"frame": {"x":1180,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SK_HARALD_THE_CRIPPLE.png":
+{
+	"frame": {"x":1311,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"SK_KING_BRAN.png":
+{
+	"frame": {"x":1442,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ST_BROUVER_HOOG.png":
+{
+	"frame": {"x":1573,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ST_EITHNE.png":
+{
+	"frame": {"x":1704,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ST_FRANCESCA.png":
+{
+	"frame": {"x":1835,"y":1,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":128},
+	"sourceSize": {"w":129,"h":128},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "APRILfinalspritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1965,"h":130},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:319e5bdfb35ba6a45342af6376c98712:f7fc1509c7b5d7ceaa65a33aea4aef96:e42636bf0d3b1d6e4bcc7db470aaf9ff$"
+}
+}

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /de-DE/suche
+Disallow: /en-US/search
+Disallow: /es-ES/buscar
+Disallow: /es-MX/buscar
+Disallow: /fr-FR/rechercher
+Disallow: /it-IT/cerca
+Disallow: /ja-JP/%E6%A4%9C%E7%B4%A2
+Disallow: /pl-PL/szukaj
+Disallow: /pt-BR/buscar
+Disallow: /ru-RU/%D0%9F%D0%BE%D0%B8%D1%81%D0%BA
+Disallow: /zh-CN/%E6%90%9C%E7%B4%A2
+Disallow: /zh-TW/%E6%90%9C%E5%B0%8B
+
+User-agent: 008
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /

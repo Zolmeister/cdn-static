@@ -1,0 +1,30 @@
+<svg width="93" height="151" viewBox="0 0 93 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Ethereum_logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(21556 1248)">
+<g id="Ethereum_logo">
+<g id="path3078" opacity="0.600006">
+<use xlink:href="#path0_fill" transform="translate(-21556 -1192.32)" fill="#010101"/>
+</g>
+<g id="path3094" opacity="0.449997">
+<use xlink:href="#path1_fill" transform="translate(-21556 -1248)" fill="#010101"/>
+</g>
+<g id="path3110" opacity="0.800003">
+<use xlink:href="#path2_fill" transform="translate(-21509.8 -1248)" fill="#010101"/>
+</g>
+<g id="path3126" opacity="0.449997">
+<use xlink:href="#path3_fill" transform="translate(-21556 -1162.54)" fill="#010101"/>
+</g>
+<g id="path3142" opacity="0.800003">
+<use xlink:href="#path4_fill" transform="translate(-21509.8 -1162.54)" fill="#010101"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 46.2212 1.62231e-06L 0 21.0087L 46.2212 48.33L 92.4425 21.0087L 46.2212 1.62231e-06Z"/>
+<path id="path1_fill" d="M -5.70901e-12 76.6925L 46.2212 104.014L 46.2212 55.6838L 46.2212 0L -5.70901e-12 76.6925Z"/>
+<path id="path2_fill" d="M -1.37329e-06 0L -1.37329e-06 55.6838L -1.37329e-06 104.014L 46.2212 76.6925L -1.37329e-06 0Z"/>
+<path id="path3_fill" d="M -5.70901e-12 2.50244e-06L 46.2212 65.1338L 46.2212 27.3075L -5.70901e-12 2.50244e-06Z"/>
+<path id="path4_fill" d="M -1.37329e-06 27.3075L -1.37329e-06 65.1338L 46.2488 -1.58691e-06L -1.37329e-06 27.3075Z"/>
+</defs>
+</svg>

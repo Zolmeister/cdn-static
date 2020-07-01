@@ -1,0 +1,14 @@
+<svg width="20" height="18" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>chart-line</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(14384 1070)">
+<g id="chart-line">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-14384 -1070)" fill="#828282"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 14 8.78L 18.24 1.45L 19.97 2.45L 14.74 11.5L 8.23 7.75L 3.46 16L 20 16L 20 18L 0 18L 0 0L 2 0L 2 14.54L 7.5 5L 14 8.78Z"/>
+</defs>
+</svg>

@@ -1,0 +1,166 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 26.1 2.1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(28056 18610)">
+<g id="Group 26.1 2.1">
+<g id="Canvas">
+<g id="Group 26.1">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="matrix(-1 -1.22465e-16 1.22465e-16 -1 -27032 -17586)" fill="#0575E6"/>
+</g>
+</g>
+<g id="Group 24.3 2.5">
+<g id="Canvas">
+<g id="Group 24.3">
+<g id="Group 18">
+<g id="Group 17.20">
+<g id="Group 14">
+<g id="Ellipse 3.2">
+<mask id="mask0_alpha" mask-type="alpha">
+<g id="mask0 alpha">
+<g id="mask1 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27379.9 -18172.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask0_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27435.6 -18187.9)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Rectangle 14.44">
+<mask id="mask1_alpha" mask-type="alpha">
+<g id="mask1 alpha">
+<g id="mask2 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27496 -18017.9)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask1_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27523.9 -18025.8)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group 17.21">
+<g id="Group 14">
+<g id="Ellipse 3.2">
+<mask id="mask2_alpha" mask-type="alpha">
+<g id="mask2 alpha">
+<g id="mask4 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27708.4 -18172.2)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask2_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27652.6 -18187.9)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<g id="Rectangle 14.45">
+<mask id="mask3_alpha" mask-type="alpha">
+<g id="mask3 alpha">
+<g id="mask5 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path5_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27604.8 -17977.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask3_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path6_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27576.9 -17985.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Rectangle 14.46">
+<mask id="mask4_alpha" mask-type="alpha">
+<g id="mask4 alpha">
+<g id="mask6 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path7_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27566.8 -18050.6)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask4_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path8_fill" transform="matrix(-0.873884 -0.486135 -0.486135 0.873884 -27539 -18058.4)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+<g id="Group 16.23">
+<g id="Ellipse 3.24">
+<mask id="mask5_alpha" mask-type="alpha">
+<g id="mask5 alpha">
+<g id="mask7 outline ins">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27677 -18007.9)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</mask>
+<g id="Group" mask="url(#mask5_alpha)">
+<g id="Vector">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="matrix(0.873884 -0.486135 0.486135 0.873884 -27732.8 -18023.5)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 1024 512C 1024 794.77 794.77 1024 512 1024C 229.23 1024 0 794.77 0 512C 0 229.23 229.23 0 512 0C 794.77 0 1024 229.23 1024 512Z"/>
+<path id="path1_fill" d="M 195.282 97.641C 195.282 151.567 151.567 195.282 97.641 195.282C 43.7154 195.282 0 151.567 0 97.641C 0 43.7154 43.7154 0 97.641 0C 151.567 0 195.282 43.7154 195.282 97.641Z"/>
+<path id="path2_fill" d="M 195.282 138.667C 195.282 169.935 169.935 195.282 138.667 195.282L 138.667 277.333C 215.25 277.333 277.333 215.25 277.333 138.667L 195.282 138.667ZM 138.667 195.282C 107.399 195.282 82.0513 169.935 82.0513 138.667L 0 138.667C 0 215.25 62.0831 277.333 138.667 277.333L 138.667 195.282ZM 82.0513 138.667C 82.0513 107.399 107.399 82.0513 138.667 82.0513L 138.667 0C 62.0831 0 0 62.0831 0 138.667L 82.0513 138.667ZM 138.667 82.0513C 169.935 82.0513 195.282 107.399 195.282 138.667L 277.333 138.667C 277.333 62.0831 215.25 0 138.667 0L 138.667 82.0513Z"/>
+<path id="path3_fill" d="M 0 0L 200.898 0L 200.898 40.4536L 0 40.4536L 0 0Z"/>
+<path id="path4_fill" d="M 20.5128 20.5128L 20.5128 0L 0 0L 0 20.5128L 20.5128 20.5128ZM 221.41 20.5128L 241.923 20.5128L 241.923 0L 221.41 0L 221.41 20.5128ZM 221.41 60.9664L 221.41 81.4792L 241.923 81.4792L 241.923 60.9664L 221.41 60.9664ZM 20.5128 60.9664L 0 60.9664L 0 81.4792L 20.5128 81.4792L 20.5128 60.9664ZM 20.5128 41.0256L 221.41 41.0256L 221.41 0L 20.5128 0L 20.5128 41.0256ZM 200.898 20.5128L 200.898 60.9664L 241.923 60.9664L 241.923 20.5128L 200.898 20.5128ZM 221.41 40.4536L 20.5128 40.4536L 20.5128 81.4792L 221.41 81.4792L 221.41 40.4536ZM 41.0256 60.9664L 41.0256 20.5128L 0 20.5128L 0 60.9664L 41.0256 60.9664Z"/>
+<path id="path5_fill" d="M 0 0L 221.558 0L 221.558 40.4536L 0 40.4536L 0 0Z"/>
+<path id="path6_fill" d="M 20.5128 20.5128L 20.5128 0L 0 0L 0 20.5128L 20.5128 20.5128ZM 242.071 20.5128L 262.584 20.5128L 262.584 0L 242.071 0L 242.071 20.5128ZM 242.071 60.9664L 242.071 81.4792L 262.584 81.4792L 262.584 60.9664L 242.071 60.9664ZM 20.5128 60.9664L 0 60.9664L 0 81.4792L 20.5128 81.4792L 20.5128 60.9664ZM 20.5128 41.0256L 242.071 41.0256L 242.071 0L 20.5128 0L 20.5128 41.0256ZM 221.558 20.5128L 221.558 60.9664L 262.584 60.9664L 262.584 20.5128L 221.558 20.5128ZM 242.071 40.4536L 20.5128 40.4536L 20.5128 81.4792L 242.071 81.4792L 242.071 40.4536ZM 41.0256 60.9664L 41.0256 20.5128L 0 20.5128L 0 60.9664L 41.0256 60.9664Z"/>
+<path id="path7_fill" d="M 0 0L 219.202 0L 219.202 40.4536L 0 40.4536L 0 0Z"/>
+<path id="path8_fill" d="M 20.5128 20.5128L 20.5128 0L 0 0L 0 20.5128L 20.5128 20.5128ZM 239.714 20.5128L 260.227 20.5128L 260.227 0L 239.714 0L 239.714 20.5128ZM 239.714 60.9664L 239.714 81.4792L 260.227 81.4792L 260.227 60.9664L 239.714 60.9664ZM 20.5128 60.9664L 0 60.9664L 0 81.4792L 20.5128 81.4792L 20.5128 60.9664ZM 20.5128 41.0256L 239.714 41.0256L 239.714 0L 20.5128 0L 20.5128 41.0256ZM 219.202 20.5128L 219.202 60.9664L 260.227 60.9664L 260.227 20.5128L 219.202 20.5128ZM 239.714 40.4536L 20.5128 40.4536L 20.5128 81.4792L 239.714 81.4792L 239.714 40.4536ZM 41.0256 60.9664L 41.0256 20.5128L 0 20.5128L 0 60.9664L 41.0256 60.9664Z"/>
+</defs>
+</svg>

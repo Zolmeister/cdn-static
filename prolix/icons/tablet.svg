@@ -1,0 +1,14 @@
+<svg width="44" height="33" viewBox="0 0 44 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>tablet</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(63422 17876)">
+<g id="tablet">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-63421.9 -17875.4)" fill="#041429"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 35.2624 28.2917L 7.83609 28.2917L 7.83609 4.04167L 35.2624 4.04167L 35.2624 28.2917ZM 39.1805 0L 3.91805 0C 1.74353 0 0 1.79854 0 4.04167L 0 28.2917C 4.3499e-16 29.3636 0.412793 30.3916 1.14757 31.1496C 1.88234 31.9075 2.87892 32.3333 3.91805 32.3333L 39.1805 32.3333C 40.2196 32.3333 41.2162 31.9075 41.9509 31.1496C 42.6857 30.3916 43.0985 29.3636 43.0985 28.2917L 43.0985 4.04167C 43.0985 1.79854 41.3354 0 39.1805 0Z"/>
+</defs>
+</svg>

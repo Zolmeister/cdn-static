@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+Sitemap: https://startupbenchmark.com/sitemap

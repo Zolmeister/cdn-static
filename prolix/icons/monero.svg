@@ -1,0 +1,18 @@
+<svg width="74" height="74" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>monero</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(21874 1233)">
+<g id="monero">
+<g id="path22">
+<use xlink:href="#path0_fill" transform="translate(-21874 -1233)" fill="#FF6600"/>
+</g>
+<g id="path26">
+<use xlink:href="#path1_fill" transform="translate(-21868.6 -1196.46)" fill="#4C4C4C"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 36.903 5.32608e-09C 16.526 5.32608e-09 1.4782e-08 16.524 1.4782e-08 36.902C 1.4782e-08 40.976 0.66 44.894 1.88 48.559L 12.916 48.559L 12.916 17.51L 36.903 41.497L 60.89 17.51L 60.89 48.559L 71.927 48.559C 73.147 44.894 73.807 40.976 73.807 36.902C 73.807 16.524 57.281 5.32608e-09 36.903 5.32608e-09Z"/>
+<path id="path1_fill" d="M 15.55 -1.72095e-06L 15.55 19.537L -1.39618e-07 19.537C 6.478 30.165 18.178 37.263 31.533 37.263C 44.888 37.263 56.589 30.165 63.066 19.537L 47.517 19.537L 47.517 -1.72095e-06L 31.533 15.984L 15.55 -1.72095e-06Z"/>
+</defs>
+</svg>

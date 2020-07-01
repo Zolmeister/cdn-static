@@ -1,0 +1,14 @@
+<svg width="18" height="17" viewBox="0 0 18 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>close-circle-outline</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(56286 17776)">
+<g id="close-circle-outline">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-56298 -17788)" fill="#333333"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 26.0793 12.3L 20.7143 17.6095L 15.3493 12.3L 12.4286 15.1905L 17.7936 20.5L 12.4286 25.8095L 15.3493 28.7L 20.7143 23.3905L 26.0793 28.7L 29 25.8095L 23.635 20.5L 29 15.1905L 26.0793 12.3Z"/>
+</defs>
+</svg>

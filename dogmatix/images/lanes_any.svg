@@ -1,0 +1,197 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+    <svg width="100%" height="100%" preserveAspectRatio="none" viewBox="10 10 1012 495">
+      <use xlink:href="#path0_fill" filter="url(#filter0_d)" transform="translate(4 0)" fill="#BDBDBD" />
+      <use xlink:href="#path1_fill" transform="translate(4 0)" fill="#97806C" />
+      <g id="Vector 2" filter="url(#filter1_i)">
+          <use xlink:href="#path2_fill" transform="translate(24 356)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="Vector 2" filter="url(#filter2_i)">
+          <use xlink:href="#path2_fill" transform="translate(24 200)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="Vector 2" filter="url(#filter3_i)">
+          <use xlink:href="#path2_fill" transform="translate(24 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="Vector 2" filter="url(#filter4_i)">
+          <use xlink:href="#path2_fill" transform="matrix(-1 0 0 1 1009 356)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="Vector 2" filter="url(#filter5_i)">
+          <use xlink:href="#path3_fill" transform="matrix(-1 0 0 1 1009 200)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="Vector 2" filter="url(#filter6_i)">
+          <use xlink:href="#path2_fill" transform="matrix(-1 0 0 1 1009 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <g id="long bars" filter="url(#filter7_d)">
+          <use xlink:href="#path4_fill" transform="translate(66 170)" fill="#BDBDBD" />
+          <use xlink:href="#path4_fill" transform="translate(66 324)" fill="#BDBDBD" />
+      </g>
+    </svg>
+
+    <svg x="-35%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter8_i)">
+          <use xlink:href="#path7_fill" transform="translate(154 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path19_fill" transform="matrix(0.1 0 0 -0.1 197 92)" fill="#401F01" />
+      <use xlink:href="#path12_fill" transform="matrix(0.1 0 0 -0.1 171 111)" fill="#401F01" />
+      <use xlink:href="#path13_fill" transform="matrix(0.1 0 0 -0.1 197 144)" fill="#401F01" />
+      <use xlink:href="#path14_fill" transform="matrix(0.1 0 0 -0.1 208 144)" fill="#401F01" />
+    </svg>
+    <svg x="-35%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter8_i)">
+          <use xlink:href="#path6_fill" transform="translate(154 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path15_fill" transform="matrix(0.1 0 0 -0.1 163 287)" fill="#401F01" />
+      <use xlink:href="#path16_fill" transform="matrix(0.1 0 0 -0.1 173 229)" fill="#401F01" />
+    </svg>
+    <svg x="-35%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter8_i)">
+          <use xlink:href="#path5_fill" transform="translate(154 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path17_fill" transform="matrix(0.1 0 0 -0.1 166 438)" fill="#401F01" />
+      <use xlink:href="#path18_fill" transform="matrix(0.1 0 0 -0.1 225 412)" fill="#401F01" />
+    </svg>
+
+    <svg x="30%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter9_i)">
+          <use xlink:href="#path8_fill" transform="translate(76 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path19_fill" transform="matrix(0.1 0 0 -0.1 119 92)" fill="#401F01" />
+      <use xlink:href="#path12_fill" transform="matrix(0.1 0 0 -0.1 93 111)" fill="#401F01" />
+      <use xlink:href="#path13_fill" transform="matrix(0.1 0 0 -0.1 119 144)" fill="#401F01" />
+      <use xlink:href="#path14_fill" transform="matrix(0.1 0 0 -0.1 130 144)" fill="#401F01" />
+    </svg>
+    <svg x="30%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter9_i)">
+          <use xlink:href="#path9_fill" transform="translate(76 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path15_fill" transform="matrix(0.1 0 0 -0.1 86 287)" fill="#401F01" />
+      <use xlink:href="#path16_fill" transform="matrix(0.1 0 0 -0.1 96 229)" fill="#401F01" />
+    </svg>
+    <svg x="30%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 515">
+      <g id="squares" filter="url(#filter9_i)">
+          <use xlink:href="#path10_fill" transform="translate(76 42)" fill="#219653" fill-opacity="0.5" />
+      </g>
+      <use xlink:href="#path17_fill" transform="matrix(0.1 0 0 -0.1 89 438)" fill="#401F01" />
+      <use xlink:href="#path18_fill" transform="matrix(0.1 0 0 -0.1 148 412)" fill="#401F01" />
+    </svg>
+
+    <defs>
+        <filter id="filter0_d" filterUnits="userSpaceOnUse" x="0" y="0" width="1032" height="515" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+        <filter id="filter1_i" filterUnits="userSpaceOnUse" x="20" y="356" width="62" height="111" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter2_i" filterUnits="userSpaceOnUse" x="20" y="200" width="61" height="110" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter3_i" filterUnits="userSpaceOnUse" x="20" y="42" width="61" height="110" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter4_i" filterUnits="userSpaceOnUse" x="951" y="356" width="62" height="111" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter5_i" filterUnits="userSpaceOnUse" x="951" y="200" width="62" height="110" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter6_i" filterUnits="userSpaceOnUse" x="951" y="42" width="61" height="110" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter7_d" filterUnits="userSpaceOnUse" x="62" y="170" width="908" height="175" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
+            <feOffset dx="0" dy="2" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+        <filter id="filter8_i" filterUnits="userSpaceOnUse" x="150" y="42" width="115" height="425" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter9_i" filterUnits="userSpaceOnUse" height="700" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <path id="path0_fill" d="M 10 420L 10 494L 1014 494L 1014 420L 1003 409.5L 1014 400L 1014 263.5L 1003 253L 1014 242.5L 1014 106L 1003 95.5L 1014 85L 1014 10L 10 10L 10 85L 20 95.5L 10 106L 10 242.5L 20 253L 10 263.5L 10 400L 20 409.5L 10 420.001Z" />
+        <path id="path1_fill" d="M 19.5 268L 19.5 396.501L 32.4994 409.501L 19.5 422.5L 19.5 485.5L 1004.5 485.5L 1004.5 422.5L 991.501 409.501L 1004.5 396.501L 1004.5 356.502L 1004.5 268L 1004.5 265.499L 991.501 252.499L 1004.5 239.5L 1004.5 110L 1004.5 108.499L 991.501 95.4994L 1004.5 82.5L 1004.5 19.5L 19.5 19.5L 19.5 82.5L 32.4994 95.4994L 19.5 108.499L 19.5 110L 19.5 239.5L 32.4994 252.499L 19.5 265.499L 19.5 268Z" />
+        <path id="path2_fill" d="M 0 66L 0 106L 53 53L 0 0L 0 40L 13 53L 0 66Z" />
+        <path id="path3_fill" d="M 0 66L 0 106L 54 53L 0 0L 0 39.5L 13 53L 0 66Z" />
+        <path id="path4_fill" d="M 0 3L 2 6L 898 6L 900 3L 898 0L 2 0L 0 3Z" />
+        <path id="path5_fill" d="M 0 367.002L 52.9994 420.001L 105.999 367.002L 52.9994 314.002L 0 367.002Z" />
+        <path id="path6_fill" d="M 0 209.999L 52.9994 262.999L 105.999 209.999L 52.9994 157L 0 209.999Z" />
+        <path id="path7_fill" d="M 0 52.9994L 52.9994 105.999L 105.999 52.9994L 52.9994 0L 0 52.9994Z" />
+        <path id="path8_fill" d="M 0 52.9994L 52.9994 105.999L 105.999 52.9994L 52.9994 0L 0 52.9994Z" />
+        <path id="path9_fill" d="M 0 209.999L 52.9994 262.999L 105.999 209.999L 52.9994 157L 0 209.999Z" />
+        <path id="path10_fill" d="M 0 367.002L 52.9994 420.001L 105.999 367.002L 52.9994 314.002L 0 367.002Z" />
+        <path id="path11_fill" d="M 52.295 418.982C -3.04624 385.519 -16.3562 324.171 21.472 274.674C 39.6856 250.274 41.7872 241.908 41.7872 198.685C 41.7872 172.194 38.9851 118.514 35.4825 80.1713C 31.9799 36.2514 31.9799 7.66856 36.183 3.48571C 40.3861 -0.697142 51.5945 2.09143 67.7065 10.4571C 91.5243 23.0057 93.6258 23.0057 113.941 11.8514C 125.149 5.57714 137.759 0 141.261 0C 144.764 0 147.566 52.9828 147.566 122.697L 147.566 245.394L 168.582 269.794C 188.897 292.8 193.1 309.531 190.298 352.057C 185.394 414.799 107.636 452.445 52.295 418.982ZM 126.55 361.12C 143.363 342.994 144.063 329.051 129.352 308.137C 107.636 277.462 56.4981 296.982 56.4981 336.022C 56.4981 352.754 81.0164 376.457 98.5295 376.457C 105.535 376.457 118.144 369.485 126.55 361.12Z" />
+        <path id="path12_fill" d="M 314.326 145.703C 262.488 115.028 221.157 104.571 156.008 104.571C 120.282 104.571 105.571 108.057 92.2608 118.514C 66.3414 138.731 31.3153 136.64 13.8023 114.331C -5.81235 89.9313 -4.41131 75.2913 17.3049 52.9828C 41.1226 29.9771 62.1383 29.9771 89.4587 52.9828C 109.774 69.7142 114.677 71.1085 165.816 67.6228C 234.467 62.7428 275.798 50.8914 319.93 22.3085C 338.845 10.4571 357.058 0 359.86 0C 362.662 0 380.876 10.4571 399.79 22.3085C 444.623 51.5885 485.954 63.4399 558.108 67.6228C 612.048 71.1085 616.952 69.7142 640.069 52.9828C 670.192 29.9771 694.71 29.9771 712.923 52.9828C 731.838 77.3827 731.838 98.297 711.522 117.12C 690.507 136.64 662.486 136.64 636.567 117.817C 618.353 103.874 609.947 103.177 547.6 105.966C 476.847 110.148 448.827 118.514 387.881 155.463L 359.86 172.194L 314.326 145.703Z" />
+        <path id="path13_fill" d="M 4.20313 325.773C 2.10157 322.984 0 264.424 0 194.71L 0 68.5273L 37.1277 32.2759C 57.4428 12.0588 76.3569 -1.88404 79.159 0.207387C 81.9611 2.99595 84.0627 64.3444 84.0627 136.15L 84.0627 266.516L 65.8491 288.824C 46.2345 311.83 11.2084 332.744 4.20313 325.773Z" />
+        <path id="path14_fill" d="M 29.4219 299.1L 0 271.215L 2.10157 136.666C 3.50261 62.7691 5.60418 1.42057 6.3047 0.0262862C 7.70574 -0.670856 24.5183 12.5748 44.8334 30.7005L 80.5601 62.7691L 80.5601 194.529C 80.5601 344.414 79.8595 345.809 29.4219 299.1Z" />
+        <path id="path15_fill" d="M 646.249 737.263C 607.02 698.921 585.304 691.252 488.632 678.006C 426.986 669.641 387.756 652.212 394.061 635.481C 395.462 630.601 401.066 613.869 405.97 597.835C 415.077 567.161 422.082 563.675 443.798 578.315C 451.504 583.892 475.322 593.652 496.337 600.624C 517.353 607.595 555.181 620.841 580.4 629.206C 605.619 638.269 629.437 645.938 633.64 645.938C 644.148 645.938 652.554 249.264 642.046 236.716C 630.137 222.773 447.301 411.001 447.301 436.795C 447.301 447.252 440.296 463.287 431.889 472.349C 382.152 526.029 356.934 565.069 352.03 594.349C 349.928 611.081 345.025 627.115 341.522 629.206C 338.019 631.298 323.308 625.721 309.298 617.355C 294.587 608.292 274.272 602.018 262.363 602.715C 245.55 604.109 235.043 597.835 207.722 571.344C 183.905 547.641 175.498 535.092 178.3 525.332C 180.402 517.664 175.498 501.629 164.29 485.595C 141.873 452.132 141.173 443.767 162.188 443.767C 188.808 443.07 232.241 419.367 277.775 378.235C 312.1 348.258 326.811 339.195 344.324 339.195C 363.939 339.195 379.35 326.647 463.413 242.99C 515.952 190.704 559.384 143.298 559.384 138.418C 559.384 132.144 539.77 130.053 484.429 130.75C 366.741 130.75 132.066 141.207 127.162 146.784C 118.055 155.15 167.793 298.064 191.61 332.921C 202.118 347.561 209.123 362.898 207.722 367.778C 205.621 374.75 143.975 401.938 130.665 401.938C 112.451 401.938 76.0241 288.304 76.0241 231.138C 76.0241 190.704 56.4095 143.996 25.5865 112.624C -5.23646 79.8586 -6.6375 74.2814 12.9771 56.8529C 26.9876 44.3043 27.6881 44.3043 46.6022 57.55C 57.11 65.2186 71.1205 73.5843 78.1257 76.3729C 84.4304 79.1614 174.798 84.0414 277.775 88.2243C 380.751 91.71 494.936 96.59 532.064 99.3785L 598.614 103.561L 653.254 58.9443C 739.419 -10.0727 737.317 -9.37559 762.536 15.0244C 773.744 26.1786 783.552 37.3329 783.552 40.1215C 783.552 42.2129 763.937 68.7043 740.119 98.6814C 715.601 128.659 691.783 158.636 686.879 165.607C 679.174 175.367 679.174 213.71 685.478 378.932C 695.986 645.241 700.89 708.681 713.499 728.201C 723.307 743.538 722.606 745.629 707.195 758.178C 698.088 765.149 688.981 771.423 686.179 771.423C 684.077 771.423 665.864 756.086 646.249 737.263ZM 312.1 510.692C 330.314 493.264 341.522 436.795 326.811 436.795C 295.288 436.795 265.866 452.132 255.358 474.441C 243.449 498.841 240.647 521.847 248.353 529.515C 256.759 537.184 296.689 526.029 312.1 510.692Z" />
+        <path id="path16_fill" d="M 0 108.686C 0 103.806 10.5078 82.1947 23.1172 61.2804C 35.7266 40.3662 48.336 17.3605 51.1381 11.0862C 57.4428 -5.64517 63.047 -4.25089 90.3674 20.8462C 109.281 37.5776 112.784 44.549 107.18 53.6119C 96.6721 70.3433 0 119.84 0 108.686Z" />
+        <path id="path17_fill" d="M 93.7179 783.593C 95.8195 757.102 99.3221 710.393 102.124 678.325C 104.226 646.954 109.83 619.068 114.033 616.279C 118.236 614.188 153.963 612.794 193.893 613.491C 284.26 615.582 289.164 607.914 245.031 540.988C 237.325 529.834 226.117 508.919 219.812 495.674C 199.497 451.754 195.294 444.085 171.476 401.56C 158.866 378.554 139.952 344.394 129.445 324.874C 112.632 291.411 106.327 279.56 90.9158 253.765C 86.7127 246.794 81.1085 234.245 77.6059 225.88C 73.4028 218.211 67.0981 209.148 63.5955 206.36C 59.3923 204.268 55.8897 196.6 55.8897 190.326C 55.8897 176.383 18.762 133.16 7.55368 133.16C -5.75624 133.16 -0.852587 115.034 17.361 95.5142C 27.1683 85.0571 41.8793 77.3886 52.3871 77.3886C 62.1944 77.3886 74.8038 71.1143 81.1085 64.1429C 127.343 9.06865 138.551 0.702951 164.471 0.702951C 203.7 0.702951 226.117 16.7372 248.533 59.96C 255.539 73.2057 263.945 73.9028 425.065 75.9943L 594.591 77.3886L 616.307 46.0172C 659.039 -16.0285 726.289 -15.3313 762.016 48.1086C 774.626 71.1143 782.331 76.6914 800.545 78.7828C 820.86 80.8743 822.962 83.6628 827.165 108.76C 834.17 149.891 829.967 154.074 785.133 154.074C 759.915 154.074 739.599 158.257 729.792 165.228C 718.584 172.897 701.771 175.686 673.75 173.594L 634.521 171.503L 619.81 216.817C 611.404 241.914 598.794 280.954 592.49 303.96C 570.774 377.857 539.25 479.639 485.31 648.348C 475.503 678.325 469.198 687.388 452.385 694.359C 427.867 704.816 417.359 701.331 423.664 684.599C 428.568 673.445 442.578 624.645 458.69 561.902C 463.594 543.079 473.401 508.222 479.706 485.217C 486.01 462.211 495.818 428.051 500.721 408.531C 505.625 389.708 514.732 354.851 521.036 331.845L 532.945 290.017L 497.919 223.788L 462.893 157.56L 411.755 153.377C 383.734 150.588 332.596 148.497 297.57 148.497C 245.031 147.8 231.721 149.891 217.01 161.046C 189.689 181.96 148.359 179.171 113.333 154.074C 60.0928 115.731 43.2803 131.766 76.2049 188.234C 88.1137 208.451 97.921 227.274 97.921 230.063C 97.921 233.548 102.825 239.823 108.429 244.703C 114.033 249.583 118.937 259.343 118.937 266.314C 118.937 273.983 121.739 279.56 125.241 279.56C 128.744 279.56 135.049 287.925 139.252 299.08C 143.455 309.537 149.76 323.48 153.963 330.451C 167.973 354.851 174.978 367.4 192.492 401.56C 202.299 421.08 213.507 441.297 217.01 446.874C 220.512 452.451 224.716 462.211 226.817 467.788C 229.619 473.365 237.325 488.005 245.031 499.159C 252.736 511.011 266.046 534.714 274.453 552.839C 283.559 570.965 296.169 586.999 303.174 589.091C 310.179 590.485 330.494 585.605 348.007 577.936C 387.937 560.508 397.044 567.479 384.435 603.731C 372.526 635.799 357.815 646.256 308.778 656.713C 273.752 663.685 264.645 670.656 189.689 743.856C 144.856 787.776 104.226 824.725 99.3221 826.816C 91.6163 829.605 90.2153 821.239 93.7179 783.593ZM 562.367 180.566C 567.271 161.743 563.068 154.074 546.956 154.074C 528.742 154.074 525.24 160.348 533.646 179.171C 543.453 200.086 557.464 200.783 562.367 180.566ZM 192.492 112.246C 208.604 94.12 201.598 65.5371 177.781 55.08C 161.669 47.4115 157.465 48.8057 146.257 62.7486C 130.145 82.9657 129.445 96.9085 144.856 113.64C 159.567 129.674 176.38 129.674 192.492 112.246ZM 714.381 112.246C 732.594 94.12 731.894 85.7543 712.98 65.5371C 695.466 46.7143 684.258 45.32 669.547 60.6572C 655.537 74.6 655.537 101.091 669.547 115.034C 684.258 129.674 697.568 128.977 714.381 112.246Z" />
+        <path id="path18_fill" d="M 0 233.234C 0 206.742 21.0157 151.668 39.2292 130.057C 48.336 118.902 69.3517 87.5311 85.4637 60.3426C 101.576 32.4569 117.688 8.05692 121.891 5.26835C 133.8 -3.09735 171.628 -1.00593 180.735 8.05692C 192.644 19.9083 191.243 77.7711 177.933 95.8968C 149.912 135.634 23.8178 250.662 7.70574 250.662C 3.50261 250.662 0 242.994 0 233.234Z" />
+        <path id="path19_fill" d="M 52.295 418.982C -3.04624 385.519 -16.3562 324.171 21.472 274.674C 39.6856 250.274 41.7872 241.908 41.7872 198.685C 41.7872 172.194 38.9851 118.514 35.4825 80.1713C 31.9799 36.2514 31.9799 7.66856 36.183 3.48571C 40.3861 -0.697142 51.5945 2.09143 67.7065 10.4571C 91.5243 23.0057 93.6258 23.0057 113.941 11.8514C 125.149 5.57714 137.759 0 141.261 0C 144.764 0 147.566 52.9828 147.566 122.697L 147.566 245.394L 168.582 269.794C 188.897 292.8 193.1 309.531 190.298 352.057C 185.394 414.799 107.636 452.445 52.295 418.982ZM 126.55 361.12C 143.363 342.994 144.063 329.051 129.352 308.137C 107.636 277.462 56.4981 296.982 56.4981 336.022C 56.4981 352.754 81.0164 376.457 98.5295 376.457C 105.535 376.457 118.144 369.485 126.55 361.12Z" />
+    </defs>
+</svg>

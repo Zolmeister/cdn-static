@@ -1,0 +1,18 @@
+<svg width="241" height="285" viewBox="0 0 241 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>NEO_(cryptocurrency)_logo</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(23027 1289)">
+<g id="NEO_(cryptocurrency)_logo">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-23027 -1289)" fill="url(#paint0_linear)"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(174.844 -149.594 149.499 174.954 -69.3749 156.489)">
+<stop offset="0" stop-color="#BEEA2E"/>
+<stop offset="1" stop-color="#52BA00"/>
+</linearGradient>
+<path id="path0_fill" d="M 8.692e-07 54.1628L 95.369 99.2983L 95.369 285L 8.692e-07 239.865L 8.692e-07 54.1628L 8.692e-07 54.1628ZM 144.342 0L 4.57847 49.7239L 99.093 95.1444L 238.424 45.1354L 144.342 0ZM 141.765 84.9713L 141.765 198.598L 241 237.285L 241 49.2893L 141.765 84.9713Z"/>
+</defs>
+</svg>

@@ -1,0 +1,89 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+    <svg width="100%" height="100%" preserveAspectRatio="none" viewBox="10 16 1012 179">
+        <g id="Canvas" transform="translate(336 -2001)">
+            <g id="border" filter="url(#filter0_d)">
+                <use xlink:href="#path0_fill" transform="translate(-333 2001)" fill="#BDBDBD" />
+            </g>
+            <g id="border">
+                <use xlink:href="#path1_fill" transform="translate(-333 2023)" fill="#97806C" />
+            </g>
+            <g id="Vector 2" filter="url(#filter1_i)">
+                <use xlink:href="#path2_fill" transform="translate(-313.5 2045)" fill="#219653" fill-opacity="0.5" />
+            </g>
+            <g id="Vector 2" filter="url(#filter2_i)">
+                <use xlink:href="#path2_fill" transform="matrix(-1 0 0 1 671.5 2045)" fill="#219653" fill-opacity="0.5" />
+            </g>
+        </g>
+    </svg>
+
+    <svg x="-35%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 204">
+      <g id="Canvas" transform="translate(336 -2001)">
+        <g id="squares" filter="url(#filter3_i)">
+            <use xlink:href="#path3_fill" transform="translate(-183.5 2045.5)" fill="#219653" fill-opacity="0.5" />
+        </g>
+        <use xlink:href="#path4_fill" transform="matrix(0.1 0 0 -0.1 -170 2125.59)" fill="#401F01" />
+        <use xlink:href="#path5_fill" transform="matrix(0.1 0 0 -0.1 -144.046 2150)" fill="#401F01" />
+      </g>
+    </svg>
+    <svg x="35%" preserveAspectRatio="xMidYMid" viewBox="0 0 308 204">
+      <g id="Canvas" transform="translate(236 -2001)">
+        <g id="squares" filter="url(#filter3_i)">
+            <use xlink:href="#path3_fill" transform="translate(-183.5 2045.5)" fill="#219653" fill-opacity="0.5" />
+        </g>
+        <use xlink:href="#path4_fill" transform="matrix(0.1 0 0 -0.1 -170 2125.59)" fill="#401F01" />
+        <use xlink:href="#path5_fill" transform="matrix(0.1 0 0 -0.1 -144.046 2150)" fill="#401F01" />
+      </g>
+    </svg>
+
+    <defs>
+        <filter id="filter0_d" filterUnits="userSpaceOnUse" x="-336" y="2001" width="1030" height="203" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <desc>type="dropShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape" />
+        </filter>
+        <filter id="filter1_i" filterUnits="userSpaceOnUse" x="-318" y="2044" width="62" height="111" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <desc>type="innerShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter2_i" filterUnits="userSpaceOnUse" x="614" y="2044" width="62" height="111" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <desc>type="innerShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <filter id="filter3_i" filterUnits="userSpaceOnUse" x="-188" y="2045" width="115" height="111" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <desc>type="innerShadow" x="0" y="4" size="4" spread="0" color="0,0,0,0.25" blend="normal"</desc>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0" result="hardAlpha" />
+            <feOffset dx="0" dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow" />
+        </filter>
+        <path id="path0_fill" d="M 10 107.5L 10 178L 1014 178L 1014 107.5L 1003.5 97L 1014 86.5L 1014 16L 10 16L 10 86.5L 20.5 97L 10 107.5Z" />
+        <path id="path1_fill" d="M 19.5 87.9988L 19.5 149.999L 1004.5 149.999L 1004.5 128L 1004.5 87.9988L 991.501 74.9995L 1004.5 62.0001L 1004.5 22.0013L 1004.5 0L 19.5 0L 19.5 62L 32.4994 74.9994L 19.5 87.9988Z" />
+        <path id="path2_fill" d="M 0 66L 0 106L 53 53L 0 0L 0 40L 13 53L 0 66Z" />
+        <path id="path3_fill" d="M 0 52.9994L 52.9994 105.999L 105.999 52.9994L 52.9994 0L 0 52.9994Z" />
+        <path id="path4_fill" d="M 263.306 719.1C 260.297 714.605 265.563 697.377 273.84 680.898C 293.402 644.943 294.155 622.471 276.849 617.227C 269.325 615.729 238.477 601.497 207.628 585.767C 23.2901 493.632 -50.4453 284.644 36.0809 97.3781C 57.9005 49.4381 93.2634 0 105.302 0C 119.597 0 127.121 13.4831 118.845 24.7191C 94.7682 55.4306 82.7298 111.61 82.7298 187.266C 83.4822 271.161 93.2634 310.861 130.883 370.786C 170.008 435.205 281.364 519.849 305.441 504.868C 311.46 501.123 312.965 483.894 309.203 448.688C 304.688 397.003 310.707 382.022 328.765 398.501C 352.842 421.722 447.645 501.872 491.284 535.579C 517.618 556.553 537.18 578.276 536.428 584.268C 534.171 593.257 291.145 724.343 273.087 725.841C 270.078 726.59 265.563 722.845 263.306 719.1Z" />
+        <path id="path5_fill" d="M 429.621 709.228C 421.345 703.984 422.85 692.749 439.402 647.805C 486.051 517.468 454.45 384.884 350.619 280.015C 294.189 223.087 206.158 187.132 221.958 228.33C 232.492 253.798 235.502 326.457 226.473 326.457C 221.206 326.457 191.11 303.985 159.509 276.27C 127.156 247.806 78.2497 207.356 50.4109 184.884C 22.572 162.412 0 139.941 0 134.697C 0 130.203 60.9445 94.9969 135.432 57.5438C 285.16 -17.3624 293.437 -18.1115 259.578 49.3041C 240.768 86.7572 240.768 88.2553 253.559 97.9931C 261.083 103.986 276.884 110.727 288.922 113.723C 314.504 118.967 377.706 154.922 410.059 182.637C 442.412 208.854 488.309 271.776 507.871 315.221C 516.9 336.195 528.938 380.39 534.205 414.097C 543.234 468.03 542.481 482.262 531.948 532.449C 510.881 626.082 453.698 724.958 429.621 709.228Z" />
+    </defs>
+</svg>

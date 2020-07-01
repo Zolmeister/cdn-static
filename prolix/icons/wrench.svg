@@ -1,0 +1,14 @@
+<svg width="37" height="37" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>wrench</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(28563 25345)">
+<g id="wrench">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-28563 -25345)" fill="#8A8A8A"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 36.5154 30.2421L 21.2338 14.8677C 22.7451 10.9819 21.9055 6.42031 18.7148 3.21029C 15.3562 -0.168681 10.3183 -0.844475 6.28795 1.01396L 13.509 8.27875L 8.47104 13.3472L 1.0821 6.08242C -0.933068 10.1372 -0.0934147 15.2056 3.2652 18.5846C 6.45588 21.7946 10.99 22.6394 14.8524 21.1188L 30.1341 36.4932C 30.8058 37.1689 31.8134 37.1689 32.4851 36.4932L 36.3475 32.6073C 37.1872 31.9315 37.1872 30.7489 36.5154 30.2421Z"/>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "short_name": "Gwent.io",
+  "name": "Gwent.io",
+  "start_url": "./?utm_source=web_app_manifest",
+  "icons": [
+    {
+      "src": "/images/gwent_io_icon_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FAFAFA",
+  "theme_color": "#00796B",
+  "display": "standalone",
+  "orientation": "portrait"
+}

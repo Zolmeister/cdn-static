@@ -1,0 +1,16 @@
+{
+  "short_name": "Ozone",
+  "name": "Ozone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "icons": [
+    {
+      "src": "/images/logo_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#FAFAFA",
+  "theme_color": "#1976D2",
+  "display": "standalone",
+  "orientation": "portrait"
+}

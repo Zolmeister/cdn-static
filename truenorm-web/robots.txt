@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /oauth
+
+User-agent: 008
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
